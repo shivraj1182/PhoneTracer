@@ -1,0 +1,55 @@
+# PhoneTracer Dependencies
+# Python 3.8+ required
+
+# Phone number parsing and validation
+phonenumbers>=8.13.0
+
+# HTTP requests for API calls
+requests>=2.31.0
+
+# YAML configuration file parsing
+PyYAML>=6.0
+
+# Colored terminal output
+colorama>=0.4.6
+
+# Command line argument parsing (included in Python standard library)
+# argparse - included
+
+# Data handling and analysis
+pandas>=2.0.0
+
+# Async HTTP requests (optional, for better performance)
+aiohttp>=3.8.0
+
+# Rate limiting
+ratelimit>=2.2.1
+
+# Caching
+cachetools>=5.3.0
+
+# JSON schema validation
+jsonschema>=4.17.0
+
+# Date and time handling
+python-dateutil>=2.8.2
+
+# Logging enhancements
+loguru>=0.7.0
+
+# Testing dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.21.0
+
+# Code quality tools
+flake8>=6.0.0
+black>=23.3.0
+pylint>=2.17.0
+
+# Type checking
+mypy>=1.3.0
+
+# Documentation
+sphinx>=6.2.0
+sphinx-rtd-theme>=1.2.0
